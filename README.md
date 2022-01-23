@@ -10,9 +10,11 @@
 
 <br>
 
+<h4><a href="https://izabela-guimaraes.github.io/Microsoft-Store/" target="blank">Click here to see the application working</a></h4>
 
+<br>
 
-<h4>to see another project click here <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
+<h4>To see another project click here <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
 
 🚀 Technologies
 This project was developed with the following technologies:
